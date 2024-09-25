@@ -20,6 +20,7 @@ venv
 # other
 .DS_Store
 generate_hashed_passwords.py
+.flaskenv
 
 # sphinx docs 
 _build
