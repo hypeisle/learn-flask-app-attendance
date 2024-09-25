@@ -1,0 +1,6 @@
+DEBUG=True
+FLASK_APP=app.py
+FLASK_ENV=development
+FLASK_DEBUG=1
+SECRET_KEY=sadsal213213sadsaSAD
+ASSETS_ROOT=/static
